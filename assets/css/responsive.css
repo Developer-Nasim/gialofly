@@ -1,0 +1,581 @@
+@media (max-width:1399.98px) {
+  .banner_area .text .title {
+    font-size: 120px;
+  }
+
+  .destinazioni_item .overlay .text .title {
+    font-size: 40px;
+  }
+
+  .viaggi_area .viaggi_shape {
+    right: -104px;
+  }
+
+  .footer_area .footer_top .item p {
+    font-size: 18px;
+  }
+
+  .footer_area .footer_middle .midd_item ul li a {
+    font-size: 18px;
+  }
+
+  .footer_area .footer_middle .midd_item .instagram {
+    gap: 12px;
+  }
+
+  .footer_area .footer_middle .midd_item .instagram .img {
+    width: 79px;
+    height: 79px;
+  }
+
+  .cosa_serve_area .main .item {
+    max-width: 473px;
+  }
+
+}
+
+@media (max-width:1199.98px) {
+  .destinazioni_area {
+    margin-top: 210px;
+  }
+
+  .section_title {
+    font-size: 42px;
+  }
+
+  .destinazioni_item .overlay .text .title {
+    font-size: 34px;
+  }
+
+  .destinazioni_area .destinazioni_img img {
+    width: 70% !important;
+  }
+
+  .destinazioni_area .destinazioni_img {
+    bottom: -304px;
+  }
+
+  .cosa_dicono_area .cosa_dicono_item {
+    padding: 29px;
+  }
+
+  .cosa_dicono_area .cose_image .img_1 {
+    left: -59px;
+    bottom: -345px;
+  }
+
+  .viaggi_area {
+    padding-top: 106px;
+  }
+
+  .viaggi_area .viaggi_shape img {
+    width: 80% !important;
+  }
+
+  p {
+    font-size: 18px;
+  }
+
+  .turchia_area .title {
+    font-size: 100px;
+  }
+
+  .prossime_partenze_area .main .item {
+    padding: 39px 33px;
+  }
+
+  .prossime_partenze_area .main .item .right .btn_2 {
+    padding: 14px 25px;
+  }
+
+  .prossime_partenze_area .main .item .right button {
+    font-size: 20px;
+  }
+
+  .prossime_partenze_area .main .item .left .info_box .title {
+    font-size: 24px;
+  }
+
+  .prossime_partenze_area .main .item .right .price {
+    font-size: 24px;
+  }
+
+  .noi_pensiamo_area .info_form {
+    padding: 56px 26px 58px 30px;
+  }
+
+  .noi_pensiamo_area .info_form {
+    gap: 37px;
+  }
+
+  .noi_pensiamo_area .info_form .left .main {
+    gap: 44px;
+  }
+
+  .noi_pensiamo_area .info_form .left .main .item .title {
+    font-size: 25px;
+  }
+
+  .noi_pensiamo_area .info_form .left .button_groups .link_btn {
+    font-size: 20px;
+  }
+
+  .Itinerario_area {
+    margin-top: 87px;
+  }
+
+  .faq-body .accordion-button {
+    font-size: 28px;
+  }
+
+  .cosa_serve_area .main .item {
+    max-width: 382px;
+  }
+}
+
+@media (max-width:991.98px) {
+  .navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #fff;
+    width: 320px;
+    height: 100%;
+  }
+
+  .header_area .navbar .nav-item {
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+
+  .navbar-nav {
+    height: 100% !important;
+  }
+
+  .navbar-toggler {
+    border: 0;
+    box-shadow: none;
+    outline: none;
+  }
+
+  .navbar-toggler:focus {
+    border: 0;
+    box-shadow: none;
+    outline: none;
+  }
+
+  .banner_area {
+    padding-top: 244px;
+  }
+
+  .banner_area .text .title {
+    font-size: 105px;
+  }
+
+  .banner_area .banner_image .img_1 {
+    top: -150px;
+    left: -208px;
+  }
+
+  .banner_area .banner_image .img_3 {
+    top: 58px;
+    right: -270px;
+  }
+
+  .viaggi_area .viaggi_shape {
+    right: -104px;
+    display: none;
+  }
+
+  .email_us_area {
+    margin-top: 124px;
+    margin-bottom: 141px;
+  }
+
+  .footer_area .footer_middle {
+    margin-top: 86px;
+    margin-bottom: 84px;
+  }
+
+  .navbar-collapse {
+    display: block !important;
+    left: -320px;
+    transition: all linear 0.2s;
+    z-index: 999;
+  }
+
+  .navbar-collapse.show {
+    left: 0;
+  }
+
+  .footer_area .footer_btm .social a {
+    margin-left: 24px;
+  }
+
+  .banner_area_two img {
+    height: 450px;
+    object-fit: cover;
+  }
+
+  .banner_area_two .img {
+    position: absolute;
+    bottom: -206px;
+    right: -37px;
+    transform: scale(0.7);
+  }
+
+  .turchia_area .title {
+    font-size: 70px;
+  }
+
+  .prossime_partenze_area .main .item {
+    display: block;
+  }
+
+  .prossime_partenze_area .main .item .right .btn_2 {
+    margin-top: 0;
+  }
+
+  .prossime_partenze_area .main .item .right {
+    display: flex;
+    align-items: center;
+    gap: 42px;
+    margin-top: 40px;
+  }
+
+  .cosa_e_incluso_area {
+    padding-top: 89px;
+  }
+
+  .un_gruppo_area {
+    margin-top: 89px;
+  }
+
+  .noi_pensiamo_area {
+    margin-top: 81px;
+  }
+
+  .noi_pensiamo_area .info_form {
+    display: block;
+  }
+
+  .noi_pensiamo_area .info_form .right .main {
+    margin-top: 30px;
+  }
+
+  .noi_pensiamo_area .info_form .right .button_groups {
+    margin-top: 34px;
+    text-align: left;
+  }
+
+  .accordion-body p {
+    font-size: 18px !important;
+  }
+
+  .faq-body .accordion-button {
+    font-size: 23px;
+  }
+
+  .cosa_serve_area {
+    margin-top: 80px;
+  }
+
+  .section_title {
+    font-size: 34px;
+  }
+
+  .cosa_serve_area .main .item {
+    max-width: 100%;
+  }
+
+  .esplora_altre_area {
+    margin-top: 80px;
+    margin-bottom: 80px;
+  }
+
+  .esplora_altre_area .shape_img {
+    display: none;
+  }
+}
+
+@media (max-width:767.98px) {
+  .banner_area .text .title {
+    font-size: 75px;
+    margin-top: 0 !important;
+  }
+
+  .banner_area .banner_image img {
+    display: none;
+  }
+
+  .destinazioni_area {
+    margin-top: 110px;
+  }
+
+  .section_title {
+    font-size: 34px;
+  }
+
+  .destinazioni_area .destinazioni_img {
+    bottom: -204px;
+  }
+
+  .parti_con_area {
+    padding-top: 100px;
+  }
+
+  .parti_con_area .main .item::before {
+    display: none;
+  }
+
+  .parti_con_area .main {
+    gap: 30px;
+    flex-direction: column;
+  }
+
+  .parti_con_area .main .item {
+    min-height: unset;
+  }
+
+  .alcune_area {
+    margin-top: 100px;
+  }
+
+  .faq-body .accordion-button {
+    font-size: 24px;
+  }
+
+  .accordion-body p {
+    font-size: 16px !important;
+  }
+
+  .accordion-body {
+    padding-bottom: 30px;
+  }
+
+  .Perche_area {
+    margin-top: 100px;
+  }
+
+  .cosa_dicono_area .cose_image img {
+    display: none;
+  }
+
+  .email_us_area .input_groups input {
+    font-size: 26px;
+    padding: 0 24px;
+  }
+
+  .footer_area .footer_top .item {
+    text-align: center;
+  }
+
+  .footer_area .footer_middle .midd_item {
+    text-align: center;
+  }
+
+  .footer_area .footer_middle {
+    margin-top: 36px;
+    margin-bottom: 36px;
+  }
+
+  .footer_area .footer_middle .midd_item .instagram {
+    justify-content: center;
+  }
+
+  .footer_btm .copyright {
+    text-align: center;
+  }
+
+  .turchia_area .title {
+    font-size: 60px;
+  }
+
+  .turchia_area .buttons a {
+    font-size: 20px;
+  }
+
+  .prossime_partenze_area {
+    padding-top: 80px;
+  }
+
+  .prossime_partenze_area .main .item .left {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 42px;
+  }
+
+  .prossime_partenze_area .main .item .left .info_box::before {
+    display: none;
+  }
+
+  .cosa_serve_area .main .item .title {
+    font-size: 27px;
+  }
+
+  .cosa_serve_area .main {
+    padding: 32px;
+  }
+
+  .esplora_altre_area .section_top {
+    margin-bottom: 63px;
+  }
+}
+
+@media (max-width:575.98px) {
+  .banner_area {
+    padding-top: 174px;
+  }
+
+  .banner_area .text .subtitle {
+    font-size: 26px;
+    font-weight: 700;
+  }
+
+  .banner_area .text .title {
+    font-size: 56px;
+    margin-top: 0 !important;
+  }
+
+  .section_title {
+    font-size: 30px;
+  }
+
+  .destinazioni_area {
+    margin-top: 80px;
+  }
+
+  .faq-body .accordion-button {
+    font-size: 20px;
+  }
+
+  .Perche_area {
+    margin-top: 80px;
+  }
+
+  .alcune_area .section_title {
+    padding-bottom: 60px;
+  }
+
+  .Perche_area .section_title {
+    padding-bottom: 60px;
+  }
+
+  .cosa_dicono_area {
+    padding-top: 80px;
+  }
+
+  .cosa_dicono_area .section_title {
+    padding-bottom: 60px;
+  }
+
+  .cosa_dicono_area .cosa_dicono_item p {
+    font-size: 18px;
+  }
+
+  .viaggi_area {
+    padding-top: 80px;
+  }
+
+  .viaggi_area .section_title {
+    padding-bottom: 60px;
+  }
+
+  .destinazioni_item .overlay .text .title {
+    font-size: 30px;
+  }
+
+  .email_us_area {
+    margin-top: 80px;
+    margin-bottom: 80px;
+  }
+
+  .email_us_area .input_groups input {
+    font-size: 21px;
+  }
+
+  .email_us_area .input_groups button {
+    font-size: 18px;
+    padding: 12px 21px;
+    right: 18px;
+  }
+
+  .email_us_area .input_groups input {
+    height: 86px;
+  }
+
+  .banner_area_two .img {
+    display: none;
+  }
+
+  .turchia_area {
+    margin-top: 80px;
+    text-align: center;
+  }
+
+  .turchia_area .title {
+    font-size: 42px;
+  }
+
+  .prossime_partenze_area .top_title {
+    margin-bottom: 60px;
+  }
+
+  .prossime_partenze_area .main .item .left .info_box .title {
+    font-size: 20px;
+  }
+
+  .prossime_partenze_area .main .item .left .info_box p {
+    font-size: 17px;
+    font-weight: 700;
+  }
+
+  .prossime_partenze_area .main .item .left {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 22px;
+    flex-direction: column;
+  }
+
+  .un_gruppo_area .info_item_box {
+    margin-bottom: 63px;
+  }
+
+  .un_gruppo_area .button a {
+    font-size: 20px;
+  }
+
+  .section_title {
+    font-size: 26px;
+  }
+
+  .noi_pensiamo_area .info_form .left .button_groups .link_btn {
+    width: 100%;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .noi_pensiamo_area .info_form .left .button_groups .link_btn+.link_btn {
+    margin-left: 0;
+  }
+
+  .noi_pensiamo_area .info_form .right .button_groups .link_btn {
+    width: 100%;
+    text-align: center;
+  }
+
+  .noi_pensiamo_area .info_form .right .button_groups .link_btn {
+    font-size: 20px;
+  }
+
+  .noi_pensiamo_area .info_form .right .main {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+  }
+}
